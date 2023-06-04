@@ -12,6 +12,7 @@
 		290203862A2C578A00F217F9 /* OwnContainerClass.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 290203842A2C578A00F217F9 /* OwnContainerClass.xcdatamodeld */; };
 		290203882A2C578C00F217F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 290203872A2C578C00F217F9 /* Assets.xcassets */; };
 		2902038B2A2C578C00F217F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 290203892A2C578C00F217F9 /* LaunchScreen.storyboard */; };
+		290203932A2C707000F217F9 /* MyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 290203922A2C707000F217F9 /* MyViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		290203872A2C578C00F217F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2902038A2A2C578C00F217F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2902038C2A2C578C00F217F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		290203922A2C707000F217F9 /* MyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				2902037B2A2C578A00F217F9 /* AppDelegate.swift */,
 				2902037F2A2C578A00F217F9 /* ViewController.swift */,
+				290203922A2C707000F217F9 /* MyViewController.swift */,
 				290203872A2C578C00F217F9 /* Assets.xcassets */,
 				290203892A2C578C00F217F9 /* LaunchScreen.storyboard */,
 				2902038C2A2C578C00F217F9 /* Info.plist */,
@@ -136,6 +139,7 @@
 			files = (
 				290203802A2C578A00F217F9 /* ViewController.swift in Sources */,
 				2902037C2A2C578A00F217F9 /* AppDelegate.swift in Sources */,
+				290203932A2C707000F217F9 /* MyViewController.swift in Sources */,
 				290203862A2C578A00F217F9 /* OwnContainerClass.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
